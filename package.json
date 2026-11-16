@@ -1,0 +1,1 @@
+{"name":"nakhl","version":"1.0.0","description":"Nakhl accounting","author":"Nakhl","main":"main.js","scripts":{"start":"electron ."},"devDependencies":{"electron":"^31.0.0","electron-builder":"^24.13.3"},"build":{"appId":"com.nakhl.app","productName":"Nakhl","files":["main.js","www/**/*"],"win":{"target":"nsis"},"directories":{"output":"dist"}}}
